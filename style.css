@@ -1,0 +1,31 @@
+table{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+    margin: 38px auto;
+
+}
+
+td{
+    padding: 10px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    background-color:rgb(255, 255, 0);
+    
+}
+
+.edit{
+    text-align: center;
+}
+.heads{
+    font-weight: 600;
+}
+th{
+    padding: 10px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    background-color:aqua;
+}
